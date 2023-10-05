@@ -5,4 +5,6 @@ int main() {
    return 0;
    //Ajout d'un commentaire
    //Encore une modif 3.11
+
+   int res = move_forward();
 }
