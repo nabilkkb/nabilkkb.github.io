@@ -7,4 +7,6 @@ int main() {
    //Encore une modif 3.11
 
    int r = move_forward() ;
+   int res = move_forward();
+   //On garde les DEUX modifs
 }
